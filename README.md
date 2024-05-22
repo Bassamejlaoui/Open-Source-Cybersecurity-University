@@ -1,6 +1,7 @@
 # The Open Source Cybersecurity University:
 
 ## Start your online Bachelor degree in Cyber Security.
+![image](https://github.com/mejbass/Open-Source-Cybersecurity-University/assets/130122304/8ae38067-4813-49fb-a3fd-8555b59aa4dd)
 
 **In this practice-oriented Bachelor in Cyber Security study programme, available fully online, you will be trained as a threat hunter with leadership potential. You will acquire the latest knowledge in the field of Cyber Security and deal with the architecture, programming and maintenance of security systems.**
 
